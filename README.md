@@ -1,5 +1,3 @@
-Basándome en la estructura del proyecto, el motor **SylithWeather**, la organización de proveedores y el hecho de que pertenece a **Sylith Technologies**, escribiría un README que presente primero el propósito del proyecto y después sus características técnicas. Un README debe servir tanto para usuarios como para futuros colaboradores.
-
 # MeteoGnome
 
 > Un cliente meteorológico moderno para el escritorio GNOME, desarrollado por **Sylith Technologies**.
@@ -97,6 +95,8 @@ El objetivo es desarrollar una plataforma meteorológica capaz de:
 
 # Instalación
 
+> En un futuro planeado estará disponible en Flathub/Flatpak
+
 ```bash
 git clone https://github.com/<usuario>/MeteoGnome.git
 
@@ -148,5 +148,3 @@ Nuestra filosofía se basa en cuatro principios:
 # Licencia
 
 Consulta el archivo **LICENSE** para obtener información sobre la licencia del proyecto.
-
-Una mejora adicional sería convertir este README en un documento de nivel profesional, similar al de proyectos como GNOME, KDE o Fedora, incluyendo insignias (badges), capturas de pantalla, una tabla de características, una hoja de ruta (Roadmap), un apartado de preguntas frecuentes y una explicación técnica del algoritmo **SylithWeather**. Eso daría al repositorio una presentación más sólida desde el primer vistazo.
